@@ -49,8 +49,8 @@
       "targetSdk": 33,
       "compileSdk": 33,
       "buildTools": "33.0.0",
-      "googleMobileAds": "22.5.0",
-      "googleUmp": "2.1.0"
+      "googleMobileAds": "22.6.0",
+      "googleUmp": "2.2.0"
     }
   },
   "react-native-builder-bob": {
