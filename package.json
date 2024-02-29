@@ -1,6 +1,6 @@
 {
   "name": "react-native-google-mobile-ads",
-  "version": "12.11.0",
+  "version": "13.0.1",
   "author": "Invertase <oss@invertase.io> (http://invertase.io)",
   "description": "React Native Google Mobile Ads is an easy way to monetize mobile apps with targeted, in-app advertising.",
   "main": "lib/commonjs/index.js",
@@ -41,8 +41,8 @@
   ],
   "sdkVersions": {
     "ios": {
-      "googleMobileAds": "10.14.0",
-      "googleUmp": "2.1.0"
+      "googleMobileAds": "11.0.1",
+      "googleUmp": "2.2.0"
     },
     "android": {
       "minSdk": 19,
