@@ -1,3 +1,32 @@
+## [13.5.0](https://github.com/invertase/react-native-google-mobile-ads/compare/v13.4.0...v13.5.0) (2024-05-21)
+
+
+### Features
+
+* add method to reload banner ad ([2a57487](https://github.com/invertase/react-native-google-mobile-ads/commit/2a574874624af515d6ecfc8819385ab4c6c73912))
+
+## [13.4.0](https://github.com/invertase/react-native-google-mobile-ads/compare/v13.3.1...v13.4.0) (2024-05-20)
+
+
+### Features
+
+* **deps:** mobile ads sdk upgrade - ios 11.5.0 android 23.1.0 ([a34c7ba](https://github.com/invertase/react-native-google-mobile-ads/commit/a34c7bae6e8f607f9fe22c8f63264600662a3dd8))
+
+### [13.3.1](https://github.com/invertase/react-native-google-mobile-ads/compare/v13.3.0...v13.3.1) (2024-05-19)
+
+
+### Bug Fixes
+
+* topNative name changed to topNativeEvent. ([b4cbea3](https://github.com/invertase/react-native-google-mobile-ads/commit/b4cbea3cbff42bdae7a630bd7daf03ebb1fca49c))
+* Typescript error in the docs ([4ad8bc7](https://github.com/invertase/react-native-google-mobile-ads/commit/4ad8bc7a967040eecc60a2ad631bc14c2cada443))
+
+## [13.3.0](https://github.com/invertase/react-native-google-mobile-ads/compare/v13.2.1...v13.3.0) (2024-05-13)
+
+
+### Features
+
+* **android:** Add support for ArrayList ([7303730](https://github.com/invertase/react-native-google-mobile-ads/commit/7303730a702ff2141be8fd417d7977ccf07f463c))
+
 ### [13.2.1](https://github.com/invertase/react-native-google-mobile-ads/compare/v13.2.0...v13.2.1) (2024-05-02)
 
 
